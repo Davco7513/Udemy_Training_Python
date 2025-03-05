@@ -118,7 +118,8 @@
 	 opacity: 0.25;
 	 z-index: -1;
 }
- .card:hover .front {
+
+.card:hover .front {
 	 transform: rotateY(180deg);
 }
  .card:nth-child(even):hover .front {
